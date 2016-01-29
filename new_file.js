@@ -1,2 +1,7 @@
 
-function main(){}
+function main(){
+
+
+nit void main();
+
+}
